@@ -52,6 +52,14 @@ body {
   max-width: 100%;
 }
 
+.img-lvl {
+  display: block;
+  width: 15%;
+  max-width: 15%;
+  margin: 10px;
+  display: inline-block;
+}
+
 /* Navigate */
 .nav {
   margin-top: 100px;
