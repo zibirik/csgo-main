@@ -54,8 +54,8 @@ body {
 
 .img-lvl {
   display: block;
-  width: 15%;
-  max-width: 15%;
+  width: 45%;
+  max-width: 45%;
   margin: 10px;
   display: inline-block;
 }
@@ -124,6 +124,11 @@ ul{
   list-style: none;
 }
 
+/*Text*/
+.lvl-text{
+  font-size: 40px;
+}
+
 
 /* Page */
 .page {
@@ -146,14 +151,23 @@ ul{
   margin-bottom: 10px;
   padding: 30px;
 }
+
 .article_title {
 }
+
 .article_date {
   margin-bottom: 20px;
 }
 .article-content {
   margin-top: 20px;
   margin-bottom: 30px;
+}
+
+.lvl-content {
+  width: auto;	height: auto; /* Размеры */
+    outline: 2px solid #fff; /* Чёрная рамка */
+    border: 3px solid #000; /* Белая рамка */
+    border-radius: 10px; /* Радиус скругления */
 }
 
 /* Banner */
