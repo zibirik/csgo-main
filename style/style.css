@@ -53,7 +53,6 @@ body {
 }
 
 .img-lvl {
-  display: block;
   width: 45%;
   max-width: 45%;
   margin: 10px;
@@ -61,7 +60,6 @@ body {
 }
 
 .img-fac {
-  display: block;
   width: 46px;
   max-width: 46px;
   margin: 10px;
