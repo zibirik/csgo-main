@@ -1,3 +1,7 @@
+:root {
+  --main-bg-color: brown;
+  --radius: 15px;
+}
 * {
   box-sizing: border-box;
 }
@@ -37,6 +41,7 @@ body {
 }
 .logo {
   width: 300px;
+  /*width: calc(10% + 300px);*/
   display: block;
 }
 
