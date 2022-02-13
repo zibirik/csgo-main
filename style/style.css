@@ -79,6 +79,14 @@ body {
   list-style: none;
   margin-bottom: 1px;
 }
+
+.nav_ul_network {
+  display: flex;
+  list-style: none;
+  margin-bottom: 1px;
+  padding-left: 300px;
+}
+
 .nav_item {
   position: relative;
 }
@@ -90,6 +98,7 @@ body {
   text-decoration: none;
   text-transform: uppercase;
 }
+
 .active,
 .nav_link:hover {
   color: #ce8404;
@@ -124,9 +133,7 @@ body {
 
 /*  */
 .network{
-  position: absolute;
-  top: 124px;
-  left: 1015px;
+  width: 30px;
 }
 
 ul{
@@ -212,7 +219,7 @@ ul{
     .container {
       width: 100%;
     }
-    
+
     .nav_item {
       padding: 10px;
     }
@@ -235,6 +242,7 @@ ul{
       flex-direction: column;
     }
 }
+
 
 
 
