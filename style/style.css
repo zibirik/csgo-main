@@ -236,7 +236,19 @@ ul{
     }
 }
 
-
+/*CSGO-menu*/
+.csgo-menu {
+  position: relative;
+  height: 600px;
+}
+area {
+  cursor: pointer;
+}
+.layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
 
 
 
