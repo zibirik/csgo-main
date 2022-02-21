@@ -244,7 +244,7 @@ ul{
 }
 
 /*CSGO-menu*/
-.csgo-menu {
+#csgo-menu {
   position: relative;
   height: 600px;
 }
@@ -255,6 +255,10 @@ area {
   position: absolute;
   top: 0;
   left: 0;
+}
+#csgo-view {
+  margin-top: 30px;
+  height: 130px;
 }
 
 
