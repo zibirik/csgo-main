@@ -21,7 +21,22 @@ $(document).ready(function () {
 
 	let p1 = $('#p1')
 	let p2 = $('#p2')
-	let arrObjs = [p1, p2]
+	let p3 = $('#p3')
+	let p4 = $('#p4')
+	let p5 = $('#p5')
+
+	let h1 = $('#h1')
+	let h2 = $('#h2')
+	let h3 = $('#h3')
+	let h4 = $('#h4')
+	let h5 = $('#h5')
+
+	let b1 = $('#b1')
+	let b2 = $('#b2')
+	let b3 = $('#b3')
+	let b4 = $('#b4')
+	let b5 = $('#b5')
+	let arrObjs = [p1, p2, p3, p4, p5, h1, h2, h3, h4, h5, b1, b2, b3, b4, b5]
 
 
 
