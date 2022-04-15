@@ -214,7 +214,7 @@ ul{
   padding: 20px;
 }
 
-/* Media */
+/* Media and  */
 @media (max-width: 900px) {
     .container {
       width: 100%;
